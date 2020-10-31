@@ -1,0 +1,1 @@
+This is Patryk's first Git project!
